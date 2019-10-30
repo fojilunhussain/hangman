@@ -8,3 +8,5 @@ function IncorrectGuesses() {
     )
 
 }
+
+export default IncorrectGuesses;

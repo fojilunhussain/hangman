@@ -8,3 +8,5 @@ function LivesRemaining() {
     )
 
 }
+
+export default LivesRemaining
